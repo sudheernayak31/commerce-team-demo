@@ -1,8 +1,8 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://edge-sandbox-graph.adobe.io/api/57fe7983-58d9-436f-b652-9e713c948950/graphql",
-      "commerce-endpoint": "https://edge-sandbox-graph.adobe.io/api/57fe7983-58d9-436f-b652-9e713c948950/graphql",
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/KNw4KD91rwhsKb8xyvnVFF/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/KNw4KD91rwhsKb8xyvnVFF/graphql",
       "headers": {
         "cs": {
           "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
@@ -10,7 +10,7 @@
           "Magento-Store-View-Code": "default",
           "Magento-Website-Code": "base",
           "x-api-key": "4dfa19c9fe6f4cccade55cc5b3da94f7",
-          "Magento-Environment-Id": "f38a0de0-764b-41fa-bd2c-5bc2f3c7b39a"
+          "Magento-Environment-Id": "KNw4KD91rwhsKb8xyvnVFF"
         }
       },
       "analytics": {
